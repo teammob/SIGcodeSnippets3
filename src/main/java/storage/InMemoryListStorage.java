@@ -1,8 +1,7 @@
 package main.java.storage;
 
-import main.java.dtos.ToDoListItemDTO;
 
-import java.util.ArrayList;
+import main.java.dtos.ToDoListItemDTO;
 import java.util.List;
 
 public class InMemoryListStorage implements ListStorage{
